@@ -12,3 +12,6 @@ Commands (where # is the column number):
 -DROP # 
 
 -POP #
+
+
+DISCLAIMER: Some of the code is not my code. It was given to me by the professor of the course to help with the mechanics of the game. Specifically the connectfour.py file. I do not take credit for creating nor writing the code in that file.
