@@ -1,7 +1,5 @@
 # connectfour.py
-#
-# ICS 32 Winter 2015
-# Project #2: Send Me On My Way
+
 
 '''
 This module contains the game logic that underlies a Connect Four
